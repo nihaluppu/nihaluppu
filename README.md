@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nihaluppu
 - 👀 Working as US - Recruiter 
-- 🌱 I had an opportunity for you - If you are open to new one.
+- 🌱 I had new opportunity for you - If you are open to new one.
 
 <!---
 nihaluppu/nihaluppu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
