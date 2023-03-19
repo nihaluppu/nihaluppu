@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nihaluppu
-- 👀 I’m interested in software testing
-- 🌱 I’m currently learning manual and automation testing
+- 👀 Working as US - Recruiter 
+- 🌱 I had an opportunity for you - If you are open to new one.
 
 <!---
 nihaluppu/nihaluppu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
