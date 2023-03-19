@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @nihaluppu
-- 👀 Working as US - Recruiter 
-- 🌱 I had new opportunity for you - If you are open to new one.
+<h1 align="center">Hi 👋, I'm Nihal Uppu</h1>
+<h3 align="center">A passionate US - Recruiter from India</h3>
 
-<!---
-nihaluppu/nihaluppu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on **Recruiting ERS**
+
+- 📫 How to reach me **nihal@yochana.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
