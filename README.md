@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nihal Uppu</h1>
-<h3 align="center">A passionate US - Recruiter from India</h3>
+<h3 align="center">A passionate US - Recruiter from Michigan</h3>
 
 - 🔭 I’m currently working on **Recruiting ERS**
 
